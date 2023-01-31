@@ -69,6 +69,8 @@
     <img src="https://streak-stats.demolab.com/?user=ofirtzabari&theme=highcontrast" />
   </picture>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofirtzabari)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ## 🔗 Links
