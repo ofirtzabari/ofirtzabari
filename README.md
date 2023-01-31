@@ -58,10 +58,10 @@
   
    <picture>
     <source 
-      srcset="https://streak-stats.demolab.com/?user=Shalevro2&theme=highcontrast"
+      srcset="https://streak-stats.demolab.com/?user=ofirtzabari&theme=highcontrast"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://streak-stats.demolab.com/?user=Shalevro2&theme=highcontrast" />
+    <img src="https://streak-stats.demolab.com/?user=ofirtzabari&theme=highcontrast" />
   </picture>
   
 </div>
